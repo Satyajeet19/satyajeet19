@@ -1,4 +1,6 @@
-# Hi 👋, I'm Satyajeet
+<div align='center'>
+ 
+ # Hi 👋, I'm Satyajeet
 💻 Passionate about **Software Development, Problem-Solving, and Technology**  
 🌱 Currently learning **Advanced Programming & Data Structures & Algorithms**  
 🚀 Love building projects and exploring **open source contributions**
@@ -72,3 +74,5 @@
 ---
 
 ⭐️ From [Satyajeet19](https://github.com/Satyajeet19)
+
+</div>
