@@ -37,10 +37,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyajeet19&theme=radical)
 
----
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Satyajeet19&theme=radical)
 
 ---
 
