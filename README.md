@@ -27,7 +27,7 @@
 - 🌱 Exploring **Machine Learning** and **AI integration**
 - 👯 Looking to collaborate on **open source** data projects
 - 💬 Ask me about **Python, SQL, Power BI, Web Development**
-- ⚡ Fun fact: I solve coding challenges for breakfast!
+- ⚡ Fun fact: I solve coding challenges for breakfast, Lunch, dinner !
 
 ---
 
