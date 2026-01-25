@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Satyajeet Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Data+Analytics+%2B+Front-End+Developer;Python+%7C+SQL+%7C+Power+BI+Expert;Building+Data-Driven+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines= Data+Analytics+%2B+Front-End+Developer;Python+%7C+SQL+%7C+Power+BI+Expert;Building+Data-Driven+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Satyajeet19&color=blueviolet&style=flat-square)](https://github.com/Satyajeet19)
 [![GitHub followers](https://img.shields.io/github/followers/Satyajeet19?label=Followers&style=social)](https://github.com/Satyajeet19?tab=followers)
