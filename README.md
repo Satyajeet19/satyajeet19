@@ -27,7 +27,7 @@
 - 🌱 Exploring **Machine Learning** and **AI integration**
 - 👯 Looking to collaborate on **open source** data projects
 - 💬 Ask me about **Python, SQL, Power BI, Web Development**
-- ⚡ Fun fact: I solve coding challenges for breakfast, Lunch, dinner !
+
 
 ---
 
@@ -37,14 +37,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### 📊 Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -54,7 +52,7 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,15 +76,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Satyajeet19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -94,21 +83,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Satyajeet19/Satyajeet19/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Satyajeet19&limit=3&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/Satyajeet19)
-
----
 
 ## 🌐 Connect with Me
 
@@ -123,33 +98,7 @@
 
 ---
 
-## 💼 Featured Projects
 
-<div align="center">
-
-[![Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=Satyajeet19&repo=password-genrator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Satyajeet19/password-genrator)
-[![Weather Website](https://github-readme-stats.vercel.app/api/pin/?username=Satyajeet19&repo=Weather-Website&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Satyajeet19/Weather-Website)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 
 ### ✨ Show some ❤️ by starring some of the repositories!
 
