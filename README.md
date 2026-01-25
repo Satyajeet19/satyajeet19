@@ -77,11 +77,6 @@
 ---
 
 
-## 📈 Contribution Graph
-
-[![Satyajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyajeet19&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Satyajeet19)
-
----
 
 
 
@@ -96,22 +91,3 @@
 
 </div>
 
----
-
-
-
-### ✨ Show some ❤️ by starring some of the repositories!
-
-![](https://hit.yhype.me/github/profile?user_id=176467433)
-
-</div>
-
----
-
-<div align="center">
-  
-**💡 "Data is the new oil, but analytics is the combustion engine"**
-
-*⭐️ From [Satyajeet19](https://github.com/Satyajeet19)*
-
-</div>
