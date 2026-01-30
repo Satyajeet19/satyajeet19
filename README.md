@@ -41,15 +41,14 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
 
 ### 📊 Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -61,42 +60,19 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satyajeet19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajeet19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajeet19&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajeet19&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyajeet19&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 💼 Featured Projects
 
@@ -107,30 +83,11 @@
 [![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-Python-3776AB?style=for-the-badge&logo=python)](https://github.com/Satyajeet19)
 [![Financial Analysis](https://img.shields.io/badge/Financial_Analysis-Excel-217346?style=for-the-badge&logo=microsoft-excel)](https://github.com/Satyajeet19)
 
-### 🌐 Web Development Projects
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-HTML/CSS-E34F26?style=for-the-badge&logo=html5)](https://github.com/Satyajeet19)
-[![Data Visualization Web App](https://img.shields.io/badge/Data_Viz_App-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://github.com/Satyajeet19)
 
-</div>
 
 ---
 
-## 📈 Coding Profiles & Achievements
 
-<div align="center">
-
-### 🎯 Competitive Programming
-
-| Platform | Profile | Stats |
-|----------|---------|-------|
-| 🟠 **LeetCode** | [@satyajeet_19](https://leetcode.com/u/satyajeet_19/) | ![LeetCode Stats](https://img.shields.io/badge/Problems_Solved-200+-orange?style=flat-square) |
-| 🟢 **HackerRank** | [@satyajeet19](https://www.hackerrank.com/profile/satyajeet19) | ![HackerRank](https://img.shields.io/badge/5_Star-Python-green?style=flat-square) |
-| 🔵 **CodeChef** | [@satyajeet19](https://www.codechef.com/) | ![CodeChef](https://img.shields.io/badge/Rating-1500+-blue?style=flat-square) |
-| ⚡ **Codeforces** | [@satyajeet19](https://codeforces.com/) | ![Codeforces](https://img.shields.io/badge/Rating-1200+-yellow?style=flat-square) |
-
-</div>
-
----
 
 ## 📚 Latest Blog Posts & Articles
 
@@ -188,15 +145,7 @@ Problem Solving        ███████████████████
 
 ---
 
-## 💭 Random Dev Quote
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 ## 📊 Weekly Development Breakdown
 
@@ -212,40 +161,4 @@ Others       1 hr 10 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎯 2026 Goals
 
-- ✅ Contribute to more open-source projects
-- ✅ Master advanced machine learning algorithms
-- ✅ Build and deploy 5+ full-stack data applications
-- ✅ Achieve 500+ LeetCode problems solved
-- ✅ Obtain AWS/Azure Data Analytics certification
-- ✅ Write technical blogs and tutorials
-- ✅ Mentor aspiring data analysts and developers
-
----
-
-<div align="center">
-
-### 💡 "Data is the new oil, and I'm here to refine it!"
-
-![Snake animation](https://github.com/Satyajeet19/Satyajeet19/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### ⭐ Show some love by starring my repositories!
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</div>
-
----
-
-<div align="center">
-  
-**[⬆ Back to Top](#-hi-im-satyajeet-kumar)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Satyajeet19&color=blueviolet&style=for-the-badge)
-
-*Last Updated: January 2026*
-
-</div>
